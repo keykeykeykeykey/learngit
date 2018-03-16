@@ -1,0 +1,72 @@
+[33mcommit d21fc37210a153fd08fb8deae1edafdcfb63a7f2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 93b2259 d0be78d
+Author: like <1134564996@qq.com>
+Date:   Thu Mar 15 11:07:43 2018 +0800
+
+    fire
+
+[33mcommit 93b22593c15ea8d477e11d215d7cb747a6e50b3d[m
+Author: like <1134564996@qq.com>
+Date:   Thu Mar 15 11:04:28 2018 +0800
+
+    word
+
+[33mcommit d0be78da753b82e44315787b69d5172ad9e4e632[m
+Author: like <1134564996@qq.com>
+Date:   Thu Mar 15 11:02:40 2018 +0800
+
+    hello
+
+[33mcommit bb62507b8ba70816e6e425b255543177f77456a4[m
+Author: like <1134564996@qq.com>
+Date:   Thu Mar 15 10:46:57 2018 +0800
+
+    dd
+
+[33mcommit 3ac963706a08fdf1b9d709b58c8ea8070a4c8228[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 21:08:53 2018 +0800
+
+    second add test.txt
+
+[33mcommit aa5bca75dd32641c762d3639f447b31242d52f0d[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 21:05:05 2018 +0800
+
+    delete test.txt
+
+[33mcommit c19fb472302b18ee85af2e9d032287009afe8f85[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 21:00:32 2018 +0800
+
+    add test.txt
+
+[33mcommit 5bfdf0f35ba536df2dbb01d37d8f3f98d534fb8b[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 20:27:22 2018 +0800
+
+    understand how stage works
+
+[33mcommit 4c9a41a3c61f7af458de9850899d24eeda1036e1[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 17:02:43 2018 +0800
+
+    add hello world
+
+[33mcommit 987fe7e532fca46b04cf284f92b25c3fb8c9fda4[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 16:59:37 2018 +0800
+
+    add content
+
+[33mcommit 103065898050e45ba7aa46d4ede2c2639e5f9cb3[m
+Author: like <1134564996@qq.com>
+Date:   Mon Mar 12 16:47:07 2018 +0800
+
+    wrote a readme file
+
+[33mcommit 86f038722c31d9150ea8eac3f8ebdeb06dbf94ab[m
+Author: keykeykeykeykey <35991309+keykeykeykeykey@users.noreply.github.com>
+Date:   Tue Mar 13 16:53:45 2018 +0800
+
+    Initial commit
